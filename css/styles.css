@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@700&family=Roboto:wght@400;500;700;900&display=swap');
+
+body {position: relative;
+width: 1600px;
+height: 2349px;
+background: #FFFFFF;
+color: #212121;
+font-family: roboto;
+}
+
+a {text-decoration: none;
+}
+
+.contacts-header {
+    color: #757575;
+}
+
+.contacts-footer {
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.preferences {
+    position: absolute;
+        width: 1170px;
+        height: 101px;
+        left: 215px;
+        top: 774px;
+}
+
+.logo-header {
+    position: absolute;
+        width: 145px;
+        height: 31px;
+        left: 215px;
+        top: 24px;
+    
+        font-family: 'Raleway';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 31px;
+        letter-spacing: 0.03em;
+    
+        color: #2196F3;
+}
+
+.logo-footer {position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 215px;
+    top: 2157px;
+
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+
+    letter-spacing: 0.03em;
+
+    color: #2196F3;}
+
+.logo1 {color: #212121;}
+
+
+.main-title {position: absolute;
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background: #2F303A;
+
+    font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 60px;
+        /* or 136% */
+    
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+    
+        color: #FFFFFF;
+}
+
+
+
+button {color: #212121;
+    background: #F5F4FA;
+    border: 0ch;
+    cursor: pointer;
+    border-radius: 4px;
+}
+button:hover, button:focus {
+    color:#FFFFFF;
+    background: #2196F3;
+}
+button[class] {
+position: absolute;
+    width: 200px;
+    height: 50px;
+    left: 700px;
+    top: 430px;
+
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.preferences {
+    position: absolute;
+        width: 1170px;
+        height: 101px;
+        left: 215px;
+        top: 774px;
+}
+
+.what-we-do {
+    position: absolute;
+        width: 1170px;
+        height: 386px;
+        left: 215px;
+        top: 969px;
+}
+
+.our-team {position: absolute;
+    width: 1170px;
+    height: 386px;
+    left: 215px;
+    top: 969px;}
