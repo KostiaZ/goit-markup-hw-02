@@ -109,6 +109,8 @@ background-color: var(--bg-hover-buton-order);
 /*-preferences-*/
 .preferences h3{
     font-weight: 700;
+    font-size: 14px;
+    line-height: 1.142857142857143;
     color: var(--font-title);
     letter-spacing: 0.03em;
     text-transform: uppercase;
