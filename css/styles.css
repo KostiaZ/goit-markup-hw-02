@@ -103,6 +103,7 @@ body {
     font-family: 'Roboto';
     font-weight: 700;
     font-size: 16px;
+    line-height: 1.88;
     color: var(--font-active-button);
     background-color: var(--bg-active-button);
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
