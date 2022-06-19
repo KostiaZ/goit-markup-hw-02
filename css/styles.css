@@ -29,10 +29,10 @@ body {
 
 /*-UI home page-*/
 /*-header-*/
-
-.nav-menu {
-    list-style-type: none;
+.list {
+    list-style: none;
 }
+
 .nav a{
     font-weight: 500;
     text-decoration: none;
@@ -62,9 +62,6 @@ body {
     color: var(--accent)
 }
 
-.contacts{
-    list-style-type: none;
-}
 .contacts a {
     text-decoration: none;
     color: var(--font-p)
@@ -113,9 +110,6 @@ background-color: var(--bg-hover-buton-order);
 
 /*-preferences-*/
 
-.pref-list {
-    list-style-type: none;
-}
 .preferences h3{
     font-weight: 700;
     font-size: 14px;
@@ -131,10 +125,6 @@ background-color: var(--bg-hover-buton-order);
 }
 
 /*-what we do-*/
-.what-list {
-    list-style-type: none;
-}
-
 .what-we-do h2{
     font-weight: 700;
     font-size: 36px;
@@ -148,9 +138,6 @@ background-color: var(--bg-hover-buton-order);
 }
 
 /*-our team-*/
-.team-list {
-    list-style-type: none;
-}
 .our-team {
     background-color: var(--bg-our-team);
     text-align: center;
@@ -187,9 +174,6 @@ background-color: var(--bg-hover-buton-order);
 /*-UI portfolio-*/
 /*-buttons-*/
 
-.buttons {
-    list-style-type: none;
-}
 .buttons button{
     font-family: 'Roboto';
     font-weight: 500;
@@ -211,9 +195,6 @@ background-color: var(--bg-hover-buton-order);
 }
 
 /*-portfolio-*/
-.portfolio {
-    list-style-type: none;
-}
 .portfolio h2{
     font-weight: 700;
     font-size: 18px;
@@ -259,9 +240,7 @@ background-color: var(--bg-hover-buton-order);
     font-style: normal;
     color: var(--footer-text);
 }
-.footer-contacts {
-    list-style-type: none;
-}
+
 .footer-contacts a {
     color: var(--footer-contacts);
 }
